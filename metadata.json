@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Ki List",
+  "description": "Accessible bilingual grocery and household shopping list for Indian families with voice search, visual categories, and PDF/WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
